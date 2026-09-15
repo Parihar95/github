@@ -1,2 +1,2 @@
 # github
-this is used for learning purpures only for GitHub
+this is used for learning purpures only for GitHub.
